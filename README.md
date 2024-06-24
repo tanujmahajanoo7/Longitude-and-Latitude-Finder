@@ -1,4 +1,8 @@
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?](https://tanujmahajanoo7.github.io/Longitude-and-Latitude-Finder/ text=Locate Me!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://tanujmahajanoo7.github.io/Longitude-and-Latitude-Finder/">
+      <img src="https://img.shields.io/badge/Location-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Locate me"/>
+    </a>
+  </div>
+</div>
